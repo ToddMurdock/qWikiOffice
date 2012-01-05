@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Checkbox Combo</title>
+<link rel="stylesheet" href="/scripts/ext-3.1/resources/css/ext-all.css" />
+<link rel="stylesheet" href="/scripts/Ext.ux.form.CheckboxCombo/Ext.ux.form.CheckboxCombo.min.css" />
+
+<script type="text/javascript" src="/scripts/ext-3.1/adapter/ext/ext-base.js"></script>
+<script type="text/javascript" src="/scripts/ext-3.1/ext-all.js"></script>
+<script type="text/javascript" src="/scripts/Ext.ux.form.CheckboxCombo/Ext.ux.form.CheckboxCombo.min.js"></script>
+
+<script language="javascript" type="text/javascript">
+Ext.onReady(function() {
+	new Ext.ux.form.CheckboxCombo({
+		renderTo: 'checkboxcombo',
+		width: 250,
+		mode: 'local',
+		store: new Ext.data.ArrayStore({
+			fields: ['value', 'label'],
+			data: [
+				['1', 'Option 1'],
+				['2', 'Option 2'],
+				['3', 'Option 3'],
+				['4', 'Option 4'],
+				['5', 'Option 5'],
+				['6', 'Option 6'],
+				['7', 'Option 7'],
+				['8', 'Option 8'],
+				['9', 'Option 9'],
+				['10', 'Option 10'],
+				['11', 'Option 11'],
+				['12', 'Option 12'],
+				['13', 'Option 13'],
+				['14', 'Option 14'],
+				['15', 'Option 15'],
+				['16', 'Option 16'],
+				['17', 'Option 17'],
+				['18', 'Option 18'],
+				['19', 'Option 19'],
+				['20', 'Option 20'],
+				['21', 'Option 21'],
+				['22', 'Option 22'],
+				['23', 'Option 23'],
+				['24', 'Option 24'],
+				['25', 'Option 25'],
+				['26', 'Option 26'],
+				['27', 'Option 27'],
+				['28', 'Option 28'],
+				['29', 'Option 29'],
+				['30', 'Option 30']
+			]
+		}),
+		valueField: 'value',
+		displayField: 'label',
+		allowBlank: false
+	});
+});
+</script>
+</head>
+
+<body style="padding: 25px;">
+<div id="checkboxcombo"></div>
+</body>
+</html>

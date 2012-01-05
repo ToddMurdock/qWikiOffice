@@ -1,0 +1,7 @@
+.acc-icon { background-image: url(images/accordion16x16.gif) !important; }
+.x-btn-medium .acc-icon { background-image: url(images/accordion24x24.gif) !important; }
+.x-btn-large .acc-icon { background-image: url(images/accordion32x32.gif) !important; }
+.demo-acc-shortcut { background-image: url(images/accordion48x48.png) !important; }
+.demo-acc-connect { background-image: url(images/connect.png) !important; }
+.demo-acc-user-add { background-image: url(images/user_add.png) !important; }
+.demo-acc-user-delete { background-image: url(images/user_delete.png) !important; }

@@ -1,0 +1,34 @@
+{
+   "launcher": {
+      "text": "Accordion Window"
+      , "tooltip": "<b>Accordion Window</b><br />A window with an accordion layout"
+   }
+   , "button": {
+   	"add": {
+   		"tooltip": "Add a new user"
+   	}
+   	, "connect": {
+         "tooltip": "<b>Rich Tooltips</b><br />Let your users know what they can do!"
+      }
+   	, "remove": {
+         "tooltip": "Remove the selected user"
+      }
+   }
+   , "html": {
+   	"moreStuff": "<p>Something useful would be in here.</p>"
+   	, "myStuff": "<p>Something useful would be in here.</p>"
+   	, "settings": "<p>Something useful would be in here.</p>"
+   }
+   , "notification": {
+   	"loading": {
+   		"msg": "Loading..."
+   	}
+   }
+   , "title": {
+   	"moreStuff": "Even More Stuff"
+   	, "myStuff": "My Stuff"
+   	, "onlineUsers": "Online Users"
+   	, "settings": "Settings"
+   	, "window": "Accordion Window"
+   }
+}

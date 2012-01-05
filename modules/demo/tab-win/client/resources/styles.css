@@ -1,0 +1,4 @@
+.tab-icon { background-image: url(images/tab16x16.gif) !important; }
+.x-btn-medium .tab-icon { background-image: url(images/tab24x24.gif) !important; }
+.x-btn-large .tab-icon { background-image: url(images/tab32x32.gif) !important; }
+.demo-tab-shortcut { background-image: url(images/tab48x48.png) !important; }

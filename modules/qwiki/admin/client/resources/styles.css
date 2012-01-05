@@ -1,0 +1,31 @@
+/* icons */
+.qo-admin-icon { background-image: url(images/qo-admin-icon16x16.gif) !important; }
+.x-btn-medium .qo-admin-icon { background-image: url(images/qo-admin-icon24x24.gif) !important; }
+.x-btn-large .qo-admin-icon { background-image: url(images/qo-admin-icon32x32.gif) !important; }
+.qo-admin-shortcut-icon { background-image: url(images/qo-admin-icon48x48.png) !important; }
+.qo-admin-add-icon-16 { background-image:url(images/add16x16.png) !important; }
+.qo-admin-delete-icon-16 { background-image:url(images/delete16x16.png) !important; }
+.qo-admin-edit-icon-16 { background-image:url(images/edit16x16.png) !important; }
+.qo-admin-refresh-icon-16 { background-image:url(images/refresh16x16.gif) !important; }
+.qo-admin-save-icon-16 { background-image:url(images/save16x16.png) !important; }
+.qo-admin-members { background-image:url(images/admin-members.png) !important; }
+.qo-admin-group { background-image:url(images/group16x16.png) !important; }
+.qo-admin-module { background-image:url(images/app16x16.gif) !important; }
+.qo-admin-member { background-image:url(images/user16x16.gif) !important; }
+.qo-admin-method { background-image:url(images/action16x16.gif) !important; }
+.qo-admin-privilege { background-image:url(images/key16x16.gif) !important; }
+.qo-admin-groups-icon { background-image:url(images/groups48x48.png); background-repeat:none; border:0 none; height:48px; width:48px; }
+.qo-admin-members-icon { background-image:url(images/user48x48.png); background-repeat:none; border:0 none; height:48px; width:48px; }
+.qo-admin-privileges-icon { background-image:url(images/key48x48.png); background-repeat:none; border:0 none; height:48px; width:48px; }
+.qo-admin-signups-icon { background-image:url(images/signups48x48.png); background-repeat:none; border:0 none; height:48px; width:48px; }
+
+.qo-admin-inactive { color:#ff0000 !important; }
+
+/* nav panel */
+.qo-admin-nav .thumb-wrap { cursor:pointer; float:left; margin:8px 0 0 8px; text-align:center; }
+.qo-admin-nav .thumb { background-position:center center; background-repeat:no-repeat; padding:2px; }
+.qo-admin-nav .x-view-over { background-color:#f1f1f1; }
+
+/* tooltip editor */
+.qo-admin-tooltip-editor .x-tip-ml { padding-left:3px; }
+.qo-admin-tooltip-editor .x-tip-mr { padding-right:3px; }

@@ -1,0 +1,99 @@
+{
+   "launcher": {
+   	"text": "QO Preferences"
+      , "tooltip": "<b>QO Preferences</b><br />Allows you to modify your desktop"
+   }
+   , "button": {
+   	"back": {
+   		"text": "Back"
+   	}
+   	, "backgroundColor": {
+   		"text": "Background Color"
+   	}
+   	, "close": {
+         "text": "Close"
+   	}
+   	, "fontColor": {
+         "text": "Font Color"
+      }
+
+   	, "next": {
+   		"text": "Next"
+   	}
+   	, "save": {
+   		"text": "Save"
+   	}
+   }
+   , "connection": {
+   	"lost": {
+	      "msg": "Lost connection to server."
+	      , "title": "Error"
+	   }
+   }
+   , "error": {
+   	"msg": "Errors encountered on the server."
+   	, "title": "Error"
+   }
+   , "data": {
+   	"nav": [
+         {
+         	"cls": "icon-pref-shortcut"
+         	, "id": "viewShortcuts"
+         	, "text": "Shortcuts"
+         	, "description": "Choose which applications appear in your shortcuts"
+         }
+         , {
+            "cls": "icon-pref-autorun"
+            , "id": "viewAutoRun"
+            , "text": "Auto Run"
+            , "description": "Choose which applications open automatically once logged in"
+         }
+         , {
+            "cls": "icon-pref-quickstart"
+            , "id": "viewQuickstart"
+            , "text": "Quick Start"
+            , "description": "Choose which applications appear in your Quick Start panel"
+         }
+         , {
+            "cls": "icon-pref-appearance"
+            , "id": "viewAppearance"
+            , "text": "Window Color and Appearance"
+            , "description": "Fine tune window color and style of your windows"
+         }
+         , {
+            "cls": "icon-pref-wallpaper"
+            , "id": "viewWallpapers"
+            , "text": "Desktop Background"
+            , "description": "Choose from available wallpapers or colors to decorate you desktop"
+         }
+   	]
+   }
+   , "html": {
+   	"autorun": "Selected applications will load and run automatically when you sign in.  Don\"t forget to click the \"Save\" button.<br /><br /><b>Note:</b><br />The more applications selected, the longer startup will take."
+      , "quickstart": "Selected applications will be available from the Quick Start panel.  Don\"t forget to click the \"Save\" button."
+   }
+   , "label": {
+      "backgroundColor": "Choose a background color"
+      , "fontColor": "Choose a font color"
+      , "transparency": "Taskbar Transparency"
+      , "wallpaperPosition": "How should the wallpaper be positioned?"
+   }
+   , "notification": {
+   	"saved": {
+	      "msg": "Save complete."
+	      , "title": "Finished"
+	   }
+	   , "saving": {
+	   	"msg": "Saving your data..."
+	   	, "title": "Please wait"
+	   }
+   }
+   , "title": {
+      "appearance": "Window Color And Appearance"
+      , "autorun": "Auto Run"
+      , "background": "Desktop Background"
+      , "quickstart": "Quick Start"
+      , "shortcuts": "Shortcuts"
+      , "window": "QO Preferences"
+   }
+}

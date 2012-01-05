@@ -1,0 +1,4 @@
+.layout-icon { background-image: url(images/layout16x16.gif) !important; }
+.x-btn-medium .layout-icon { background-image: url(images/layout24x24.gif) !important; }
+.x-btn-large .layout-icon { background-image: url(images/layout32x32.gif) !important; }
+.demo-layout-shortcut { background-image: url(images/layout48x48.png) !important; }

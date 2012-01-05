@@ -1,0 +1,19 @@
+/*!
+ * Ext JS Library 3.2.1
+ * Copyright(c) 2006-2010 Ext JS, Inc.
+ * licensing@extjs.com
+ * http://www.extjs.com/license
+ */
+.ext-ie .x-row-editor .x-form-text { margin:0 !important; }
+.x-row-editor-header { background: transparent url(images/row-editor-bg.gif) repeat-x 0 0; height:2px; overflow:hidden; }
+.x-row-editor-footer {  background: transparent url(images/row-editor-bg.gif) repeat-x 0 -2px; height:2px; overflow:hidden; }
+.ext-ie .x-row-editor-footer { margin-top:-1px; }
+.x-row-editor-body { background:#ebf2fb; overflow:hidden; padding-top:2px; zoom:1; }
+.x-row-editor .x-btns { background:transparent url(images/row-editor-btns.gif) no-repeat 0 0; left:20px; padding-left:5px; position:absolute; top:28px; }
+.x-row-editor .x-btns .x-plain-bwrap { background:transparent url(images/row-editor-btns.gif) no-repeat right -31px; padding-right:5px; }
+.x-row-editor .x-btns .x-plain-body { background:transparent url(images/row-editor-btns.gif) repeat-x 0 -62px; height:31px; }
+.x-row-editor .x-btns .x-table-layout-cell { padding:3px; }
+/* Fixes for IE6/7 trigger fields */
+.ext-ie6 .x-row-editor .x-form-field-wrap .x-form-trigger, .ext-ie7 .x-row-editor .x-form-field-wrap .x-form-trigger { top: 1px; }
+.ext-ie6 .x-row-editor .x-form-field-trigger-wrap, .ext-ie7 .x-row-editor .x-form-field-trigger-wrap { margin-top:-1px; }
+.errorTip .x-tip-body ul { list-style-type:disc; margin-left:15px; }

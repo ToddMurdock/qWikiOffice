@@ -1,0 +1,46 @@
+Requirements:
+> PHP 5
+> PHP Data Objects (PDO) extension
+> MySQL
+> Ext JS 3.2.1 ( should run any 3.x but I have only tested with 3.2.1 )
+> WampServer 2.0 ( to develop locally )
+
+
+
+Intructions:
+> Open MySql and Run qWikiOffice.sql to build the database tables.
+
+> Update server/os-config.php with your database info
+  Example:
+  /**
+   * Database connection
+   * Using PHP Data Objects (PDO)
+   */
+  public $DB_CONN_STRING = 'mysql:dbname=qwikioffice;host=localhost';
+  public $DB_USERNAME = 'root';
+  public $DB_PASSWORD = '';
+
+> Update index.php to hook up to Ext JS 3.2.1.
+  By default it is using CacheFly.net:
+  <link rel="stylesheet" type="text/css" href="http://extjs.cachefly.net/ext-3.2.1/resources/css/ext-all-notheme.css" />
+  <script type="text/javascript" src="http://extjs.cachefly.net/ext-3.2.1/adapter/ext/ext-base.js"></script>
+  <script type="text/javascript" src="http://extjs.cachefly.net/ext-3.2.1/ext-all.js"></script>
+
+
+
+To login as Admin:
+Email Address: admin@qwikioffice.com
+Password: admin
+
+
+
+ADDITIONAL NOTES:
+> Ext JS can be downloaded at: http://www.extjs.com/products/js/download.php
+
+> PHP Data Objects (PDO) extension
+  PDO ships with PHP 5.1, and is available as a PECL extension for
+  PHP 5.0; PDO requires the new OO features in the core of PHP 5,
+  and so will not run with earlier versions of PHP. 
+
+  A "PDO database abstraction interface for PHP 4" can be found here:
+  http://www.phpclasses.org/browse/package/2572.html

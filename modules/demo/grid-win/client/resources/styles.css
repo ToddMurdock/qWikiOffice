@@ -1,0 +1,7 @@
+.grid-icon { background-image:url(images/grid16x16.gif) !important; }
+.x-btn-medium .grid-icon { background-image: url(images/grid24x24.gif) !important; }
+.x-btn-large .grid-icon { background-image: url(images/grid32x32.gif) !important; }
+.demo-grid-shortcut { background-image: url(images/grid48x48.png) !important; }
+.demo-grid-option { background-image: url(images/plugin.gif) !important; }
+.demo-grid-add { background-image: url(images/add.gif) !important; }
+.demo-grid-remove { background-image: url(images/delete.gif) !important; }

@@ -1,0 +1,34 @@
+qWikiOffice Desktop
+Copyright (c) 2007-2010, Murdock Technologies, Inc.
+All rights reserved.
+licensing@qwikioffice.com
+
+http://www.qwikioffice.com/license
+
+Open Source License
+------------------------------------------------------------------------------------------
+qWikiOffice is licensed under the terms of the Open Source GPL 3.0 license.
+
+http://www.gnu.org/licenses/gpl.html
+
+
+Commercial License
+------------------------------------------------------------------------------------------
+If you are using this library for commercial purposes, we encourage you to purchase
+a commercial license. Please visit http://qwikioffice.com/license for more details.
+
+
+OEM / Reseller License
+------------------------------------------------------------------------------------------
+If you plan to distribute qWikiOffice in a product that will be packaged or sold as a desktop
+application, we require that you work with us to establish a specific license that is
+appropriate. Use of the open source license in a desktop application is not permitted
+without explicit permission from Murdock Technologies, Inc.
+
+For more details, please visit: http://www.qwikioffice.com/license.
+
+--
+
+This is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  

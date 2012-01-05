@@ -1,0 +1,5 @@
+.bogus-icon { background-image: url(images/bogus16x16.gif) !important; }
+.x-btn-medium .bogus-icon { background-image: url(images/bogus24x24.gif) !important; }
+.x-btn-large .bogus-icon { background-image: url(images/bogus32x32.gif) !important; }
+.demo-bogus-shortcut { background-image: url(images/bogus48x48.png) !important; }
+#bogus-nav-panel li { margin-bottom:5px; }

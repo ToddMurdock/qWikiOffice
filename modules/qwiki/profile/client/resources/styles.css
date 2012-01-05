@@ -1,0 +1,14 @@
+/*
+ * qWikiOffice Desktop 1.0
+ * Copyright(c) 2007-2010, Murdock Technologies, Inc.
+ * licensing@qwikioffice.com
+ *
+ * http://www.qwikioffice.com/license
+ */
+
+.qo-profile-icon { background-image: url(images/icon16x16.png) !important; }
+.x-btn-medium .qo-profile-icon { background-image: url(images/icon24x24.png) !important; }
+.x-btn-large .qo-profile-icon { background-image: url(images/icon32x32.png) !important; }
+.qo-profile-shortcut-icon { background-image: url(images/icon48x48.png) !important; }
+#qo-profile .x-panel-footer { background-color:transparent; border-top:0 none; }
+#qo-profile .x-statusbar .x-status-error { background:transparent url(images/exclamation16x16.gif) no-repeat left center; color:#cc3333; cursor:pointer; padding-left:20px; }

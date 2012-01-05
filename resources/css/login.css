@@ -1,0 +1,27 @@
+body { background:#fff none; color:#000; font-family:verdana,tahoma,arial,verdana,sans-serif; font-size:11px; margin:0; }
+p { margin:12px 0; }
+a { color:#ffcc33; }
+img { border:0 none; }
+input, textarea { font-family:verdana,tahoma,arial,verdana,sans-serif; font-size:12px; padding:3px; }
+.key { text-decoration:underline; }
+.qo-abs-position { position:absolute; }
+#qo-panel { background:transparent url(../images/default/login/bg-panel.jpg) no-repeat; height:521px; left:50%; margin-left:-404px; margin-top:-260px; position:absolute; top:50%; width:808px; }
+.qo-logo { background:transparent url(../images/default/login/logo-qwikioffice.png) no-repeat; height:130px; left:0px; top:0px; width:420px; }
+.qo-benefits { left:52px; top:140px; width:300px; }
+.qo-screenshot { background:transparent url(../images/default/login/screenshot.png) no-repeat; height:190px; left:37px; top:245px; width:329px; }
+.qo-extjs-logo { background:transparent url(../images/default/login/logo-extjs.gif) no-repeat; height:18px; left:52px; top:469px; width:85px;}
+.qo-library { left:54px; top:489px; }
+.qo-library a { color:#0000ff; }
+.qo-supported { color:#ffffff; left:618px; top:45px; }
+.qo-back-link { left:627px; top:478px; }
+.qo-signup-link { left:495px; top:478px; }
+.qo-signup-link a, .qo-forgot-link a, .qo-back-link a { color:#000; }
+.qo-forgot-link { left:625px; top:478px; }
+#field1-label { left:410px; top:300px; }
+#field1 { left:540px; top:298px; width:200px; }
+#field2-label { left:410px; top:335px; }
+#field2 { left:540px; top:333px; width:200px; }
+#field3-label { left:430px; top:300px; }
+#field3 { left:550px; top:298px; width:200px; }
+.qo-submit { background:transparent url(../images/default/login/login.gif) no-repeat 0 0; height:22px; left:705px; top:373px; width:43px; }
+.qo-submit-over { background:transparent url(../images/default/login/login.gif) no-repeat 0 -38px; height:22px; left:705px; top:373px; width:43px; }

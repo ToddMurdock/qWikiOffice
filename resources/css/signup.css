@@ -1,0 +1,12 @@
+#field1-label { left:410px; top:172px; }
+#field1 { left:545px; top:170px; }
+#field2-label { left:410px; top:207px; }
+#field2 { left:545px; top:205px; }
+#field3-label { left:410px; top:242px; }
+#field3 { left:545px; top:240px; }
+#field4-label { left:410px; top:277px; }
+#field4 { left:545px; top:275px; width:200px; }
+#field5-label { left:410px; top:310px; }
+#field5 { height:50px; left:410px; top:330px; width:335px; }
+.qo-submit { background:transparent url(../images/default/login/send.gif) no-repeat 0 0; height:22px; left:710px; top:404px; width:43px; }
+.qo-submit-over { background:transparent url(../images/default/login/send.gif) no-repeat 0 -38px; height:22px; left:710px; top:404px; width:43px; }

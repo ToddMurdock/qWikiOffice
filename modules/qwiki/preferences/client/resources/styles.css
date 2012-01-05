@@ -1,0 +1,50 @@
+/*
+ * qWikiOffice Desktop 1.0
+ * Copyright(c) 2007-2010, Murdock Technologies, Inc.
+ * licensing@qwikioffice.com
+ * 
+ * http://www.qwikioffice.com/license
+ */
+
+.qo-pref-icon { background-image: url(images/qo-pref-icon16x16.gif) !important; }
+.x-btn-medium .qo-pref-icon { background-image: url(images/qo-pref-icon24x24.gif) !important; }
+.x-btn-large .qo-pref-icon { background-image: url(images/qo-pref-icon32x32.gif) !important; }
+.qo-pref-shortcut-icon { background-image: url(images/qo-pref-icon48x48.png) !important; }
+
+.prev-link-item-icon { float: left; }
+.prev-link-item-txt { float: left; padding-top:10px; }
+.pref-percent-field { background:#ffffff url(images/percent-icon.gif) no-repeat right center; }
+#qo-preferences .x-window-mc { color:#000 !important; }
+#qo-preferences .x-border-layout-ct { background:transparent none; }
+#qo-preferences .x-panel-header { background:transparent none; border-bottom:0px none; }
+#qo-preferences .pref-card .x-panel-header { color:#000; }
+#qo-preferences .pref-card-subpanel .x-panel-header { color:#000; }
+#qo-preferences .x-grid-group-hd div { background:transparent url(images/form-collapse-icon.gif) no-repeat scroll 3px 2px; padding:4px 4px 4px 23px; }
+#qo-preferences .x-grid-group-collapsed .x-grid-group-hd div { background-position: 3px -33px; }
+#pref-win-card-1 .x-panel-body li { margin:3px 3px 15px 3px; }
+#pref-win-card-1 .x-panel-body li img { width:65px; height:55px; vertical-align:middle; margin-right:7px; margin-bottom:2px; }
+#pref-win-card-1 .x-panel-body li a { text-decoration:none; color:#336699; font-weight:bold; }
+#pref-win-card-1 .x-panel-body li span { padding-left:34px; }
+#pref-win-card-1 .x-panel-body { padding:10px }
+/*.pref-check-tree ul li { margin:0 3px; padding:3px 0; }
+.pref-check-tree .x-tree-node .x-tree-selected { background-color:#c0c0c0; }
+.pref-check-tree .x-tree-icon, .pref-check-tree .x-tree-ec-icon, .pref-check-tree .x-tree-elbow-line, .pref-check-tree .x-tree-elbow, .pref-check-tree .x-tree-elbow-end, .pref-check-tree .x-tree-elbow-plus, .pref-check-tree .x-tree-elbow-minus, .pref-check-tree .x-tree-elbow-end-plus, .pref-check-tree .x-tree-elbow-end-minus { width:3px; }
+.pref-check-tree input.x-tree-node-cb { margin-left:5px; vertical-align:middle; }
+.pref-check-tree .x-tree-node a span, .pref-check-tree .x-dd-drag-ghost a span { padding:1px 3px 1px 6px; }
+*/
+.pref-check-tree .x-tree-elbow, .pref-check-tree .x-tree-elbow-end { width:1px; }
+.pref-check-tree .complete .x-tree-node-anchor span { color:#777; text-decoration:line-through; }
+.icon-pref-shortcut { background-image:url(images/shortcut-icon.gif); }
+.icon-pref-autorun { background-image:url(images/autorun-icon.gif); }
+.icon-pref-quickstart { background-image:url(images/quickstart-icon.gif); }
+.icon-pref-appearance { background-image:url(images/appearance-icon.gif); }
+.icon-pref-wallpaper { background-image:url(images/wallpaper-icon.gif); }
+.pref-theme-groups .ux-explorerview-large-item { cursor:pointer; height:100px; margin:5px 0 0 5px; -moz-user-select:none; width:127px; }
+.pref-theme-groups .ux-explorerview-large-item .ux-explorerview-icon { height:75px; width:127px; }
+.pref-theme-groups .x-grid-group-hd, .pref-wallpaper-groups .x-grid-group-hd { border-bottom:1px solid #ccc; }
+.pref-wallpaper-groups .ux-explorerview-large-item { cursor:pointer; height:100px; margin:5px 0 0 5px; -moz-user-select:none; width:127px; }
+.pref-wallpaper-groups .ux-explorerview-large-item .ux-explorerview-icon { height: 75px; width: 127px; }
+.pref-bg-pos-center { background-image:url(images/bg-center-icon.png); }
+.pref-bg-pos-tile { background-image:url(images/bg-tile-icon.png); }
+.pref-bg-color-icon { background-image:url(images/bg-color-icon.gif) !important; }
+.pref-font-color-icon { background-image:url(images/font-color-icon.gif) !important; }
